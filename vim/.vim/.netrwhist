@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/Users/zero_cool/Documents/Personal_Study/Ethical_Hacking/Reverse_Engineering/workshop_firmware_reverse_engineering/tasks/string_encryption'
+let g:netrw_dirhist_1='/Users/zero_cool/Documents/Personal_Study/Ethical_Hacking/Reverse_Engineering/workshop_firmware_reverse_engineering/tasks'
+let g:netrw_dirhist_0='/Users/zero_cool/Documents/Personal_Study/Ethical_Hacking/Reverse_Engineering/workshop_firmware_reverse_engineering/tasks/license_check'
+let g:netrw_dirhist_9='/Users/zero_cool/Documents/Personal_Study/Ethical_Hacking/Reverse_Engineering/workshop_firmware_reverse_engineering/tasks'
+let g:netrw_dirhist_8='/Users/zero_cool/Documents/Personal_Study/Ethical_Hacking/Reverse_Engineering/workshop_firmware_reverse_engineering/tasks/license_check'
+let g:netrw_dirhist_7='/Users/zero_cool/Documents/Personal_Study/Programming/WebDev/Personal_Blog/blog'
+let g:netrw_dirhist_6='/Users/zero_cool/Documents/Personal_Study/Programming/C/Advanced_Programming_in_the_Unix_Environment/Exercises/Chapter19/solved/19-9'
+let g:netrw_dirhist_5='/Users/zero_cool/Documents/Personal_Study/Programming/C/Advanced_Programming_in_the_Unix_Environment/Exercises/Chapter19/solved/19-9/child.out.dSYM'
+let g:netrw_dirhist_4='/Users/zero_cool/Documents/Personal_Study/Programming/C/Advanced_Programming_in_the_Unix_Environment/Exercises/Chapter19/solved/19-9'
+let g:netrw_dirhist_3='/Users/zero_cool/Documents/Personal_Study/Programming/C/Advanced_Programming_in_the_Unix_Environment/Exercises/Chapter19/solved/19-3'
